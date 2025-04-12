@@ -22,9 +22,3 @@
 </p>
 
 ---
-
-## 📫 Let's Connect
-
-<p align="left">
-  <a href="https://github.com/allenzzeng" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
-</p>
