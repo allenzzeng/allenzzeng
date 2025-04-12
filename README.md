@@ -43,7 +43,7 @@
 ## 📈 Contribution Graph (Past Year)
 
 <p align="center">
-  <img src="https://github-contribution-graph.vercel.app/?username=allenzzeng&theme=github-dark" />
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=allenzzeng&theme=github-compact" />
 </p>
 
 ---
