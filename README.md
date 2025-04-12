@@ -1,8 +1,12 @@
 <h1 align="center">Hi 👋, I'm Zeng</h1>
 
+<p align="center">💻 Passionate about Python, AI and Open Source!</p>
+
+---
+
 ## 🛠️ My Tech Stack
 
-<p align="left">
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" alt="PyTorch"/>
@@ -22,3 +26,9 @@
 </p>
 
 ---
+
+## 🔥 GitHub Contributions
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=allenzzeng&theme=github-dark&area=true&hide_border=true" alt="GitHub Contribution Graph"/>
+</p>
