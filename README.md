@@ -1,9 +1,3 @@
-<h1 align="center">Hi 👋, I'm Zeng</h1>
-
-<p align="center">💻 Passionate about Python, AI and Open Source!</p>
-
----
-
 ## 🛠️ My Tech Stack
 
 <p align="center">
@@ -28,9 +22,3 @@
 </table>
 
 ---
-
-## 🔥 GitHub Contributions
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=allenzzeng&theme=github-dark&area=true&hide_border=true" alt="GitHub Contribution Graph"/>
-</p>
