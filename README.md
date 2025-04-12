@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Zeng</h1>
-<h3 align="center">A passionate developer who loves Python, C++, and building things with AI.</h3>
 
 ## 🛠️ My Tech Stack
 
